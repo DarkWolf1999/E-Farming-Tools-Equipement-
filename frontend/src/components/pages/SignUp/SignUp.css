@@ -1,0 +1,34 @@
+.input-maargin{
+  margin: 3px;
+
+}
+
+.col-md-3{
+  justify-content: center;
+
+    margin-left: 35%;
+}
+
+label
+{
+  color: #CAA590;
+}
+
+.but{
+  /* display: flex; */
+  /* justify-content: center; */
+  margin-left: 40%;
+  margin-top: 20px;
+
+}
+
+.but1 
+{
+  margin-left: 22%;
+}
+
+.bg-colo2 h2{
+  text-align: center;
+  color: #fff;
+}
+

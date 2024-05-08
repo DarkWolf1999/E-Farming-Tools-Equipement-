@@ -1,0 +1,113 @@
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #f1f1f1;
+    color: black;
+    font-size: large;
+}
+.about-section p{
+    font-size: large;
+
+}
+
+.team-section {
+    padding: 50px;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 2px;
+    border-radius: 2%;
+}
+
+.card-img-top {
+    width: 10%;
+    height: 60%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.card-body {
+    padding: 16px;
+}
+
+.card-title {
+    color: grey;
+}
+
+.card-text {
+    font-size: 14px;
+}
+
+.card-button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+/* .card-button:hover {
+    background-color: #555; 
+} */
+#btn1::before {
+    content: "Contact";
+}
+
+#btn1:hover::before {
+    content: "+91-7666241072";
+}
+#btn2::before {
+    content: "Contact";
+}
+
+#btn2:hover::before {
+    content: "+91-7768880547";
+}
+#btn3::before {
+    content: "Contact";
+}
+
+#btn3:hover::before {
+    content: "+91-8329240144";
+}
+#btn4::before {
+    content: "Contact";
+}
+
+#btn4:hover::before {
+    content: "+91-9923793220";
+}
+#btn5::before {
+    content: "Contact";
+}
+
+#btn5:hover::before {
+    content: "+91-8411846704";
+}
+
+#card1
+{
+    width: 80%;
+    margin-left: 10%;
+}
+#card2 
+{
+    width: 50%;
+
+    margin-left: 25%;
+}
+
+
+@media screen and (max-width: 650px) {
+    .card-container {
+        flex-direction: column;
+    }
+}

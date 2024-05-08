@@ -1,0 +1,185 @@
+Rotovator - 
+	Shaktiman - 
+		Champion, Regular, Mini, and Reverse Forward. Some of their popular models are Shaktiman 			Champion CH 1901, Shaktiman Regular RG 1502, and Shaktiman Mini SM 120
+	Sonalika -
+		Challenger, Champion, and Super. Some of their popular models are Sonalika Challenger Alpha 6 			feet4, Sonalika Champion 5 feet5, and Sonalika Super 7 feet
+	Maschio Gaspardo -
+		Virat, Cima, and Aquila. Some of their popular models are Maschio Gaspardo Virat Pro 250, 			Maschio Gaspardo Cima 180, and Maschio Gaspardo Aquila 300
+
+cultivator
+	Vishwakarma:
+		Yug-15 Model Cultivator- Extra High Cultivator, IRC-6 Inter Raw Cultivator, and Spring Loaded 			Tines Agricultural Cultivator
+	JRS Farmparts: 
+		16 Inch Harrow Disc Agricultural Implement For Sale, JRS Carbon Steel Harrow Disc Blades, and 			JRS Mild Steel Disc Harrow Axle
+	Piara Singh & Sons: 
+		Rigid Loaded Cultivator, Spring Type Cultivator, and Duck Foot Cultivator
+
+
+Threasher
+	Mahindra: 
+		Mahindra M55, Mahindra M75, and Mahindra M95
+	Patil Machinery: 
+		Patil Machinery Multicrop Thresher, Patil Machinery Maize Thresher Cum Dehusker, and Patil Machinery Groundnut Thresher
+	Almaco:  
+		Almaco BT14 Soybean Thresher, Almaco BT25 Belt Thresher, and Almaco BT36 Belt Thresher3
+
+
+grass-cutter
+	STIHL: 
+		STIHL FS 38, STIHL FS 55, and STIHL FS 460 C-EM
+	Wolf Garten: 
+		Wolf Garten TT 380 DL, Wolf Garten A 370 E, and Wolf Garten A 460 A V HW IS
+	Maxgreen: 
+		Maxgreen MG-BC-430, Maxgreen MG-BC-520, and Maxgreen MG-BC-620
+
+
+seed-drill
+	National Agro: 
+		National Zero Till Ferti-Seed Drill, National Zero Till Happy Seeder, and National Rice Grain Planter - DSR
+	Dharti Agro Engineering: 
+		Dharti Agro 9 Teeth Automatic Seed Drill, Dharti Agro 11 Teeth Automatic Seed Drill, and Dharti Agro 13 Teeth Automatic Seed Drill
+	Mausam Agro Private Limited: 
+		Mausam Agro Tractor Driven Seed Fertilizer Drill, Mausam Agro Animal Driven Seed Drill, and Mausam Agro Potato And Turmeric Planter
+
+
+
+Sprayer
+	KrishiSpray: 
+		High Pressure Knapsack Sprayer, Battery Operated Knapsack Sprayer, and Power Sprayer
+
+
+	ASPEE: 	
+		ASPEE Bili HTP, ASPEE Maruti, and ASPEE Mist Blower Cum Duster
+	TradeIndia: 
+		Agricultural Power Sprayer, Agricultural Hand Sprayer, and Agricultural Knapsack Sprayer
+
+
+Plough
+	Vishwakarma: 
+		VHRP 2, VHRP 3, VHRP 4,
+	Fieldking: 
+		Fieldking Maxx Reversible MB Plough, Fieldking Heavy Duty Reversible MB Plough, and Fieldking Hydraulic Reversible MB Plough
+	John Deere: 
+		John Deere Deluxe MB Plough, John Deere Standard MB Plough, and John Deere Disc Plough
+	Agristar: 
+		Agristar Disc Plough 2 FURROW, Agristar Disc Plough 3 FURROW, and Agristar Seed Drill2
+
+
+ Hand-sprayer
+	Neptune:
+		Neptune NF-1.5, Neptune NF-5.0, and Neptune NF-8.0
+	Masand :
+		Masand Hand Sprayer 1.5 Ltr, Masand Hand Sprayer 2 Ltr, and Masand Hand Sprayer 5 Ltr
+	Nav Sankalp Agro : 
+		Nav Sankalp Hand Sprayer 1 Ltr, Nav Sankalp Hand Sprayer 2 Ltr, and Nav Sankalp Hand Sprayer 5 Ltr
+	KisanKraft: 
+		KisanKraft KK-PS 1000 1L Hand Operated Pressure Sprayer, KisanKraft KK-PS 1500 1.5L Hand Operated Pressure Sprayer, and KisanKraft KK-PS 11L 11L Hand Operated Knapsack Sprayer
+
+
+
+
+
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('1', 'Shaktiman');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('2', 'Sonalika');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('3', 'Mashio Gaspardo');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('4', 'VishwaKarma');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('5', 'JRS Farmparts');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('6', 'Piara Singh & Sons');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('7', 'STIHL');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('8', 'Wolf Garten');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('9', 'Maxgreen');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('10', 'Mahindra');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('11', 'Patil Machinery');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('12', 'Almaco');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('13', 'National Agro');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('14', 'Dharti Agro Engineering');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('15', 'Mausam Agro Private Limited');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('16', 'KrishiSpray');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('17', 'ASPEE');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('18', 'TradeIndia');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('19', 'Fieldking');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('20', 'John Deere');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('21', 'Agrister');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('22', 'Neptune');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('23', 'Masand');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('24', 'Nav Sankalp Agro');
+INSERT INTO `project`.`car_company` (`companyId`, `name`) VALUES ('25', 'KisanKraft');
+
+
+
+
+SELECT * FROM project.car_company;INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('1', 'Champion CH 1901', '1');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('2', 'Shaktiman Regular RG 1502', '1');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('3', 'Shaktiman Mini SM 120', '1');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('4', 'Sonalika Challenger Alpha 6 (4 Feet)', '2');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('5', 'Sonalika Champion 5 (5 Feet)', '2');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('6', 'Sonalika Super (7 Feet)', '2');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('7', 'Maschio Gaspado Virat Pro 250', '3');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('8', 'Maschio Gaspardo Cima 180', '3');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('9', 'Maschio Gaspardo Aquila 300', '3');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('10', 'Yug-15 Model Cultivator', '4');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('11', 'IRC-6 Inter Raw Cultivator', '4');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('12', 'Spring Loaded Tines Cultivator', '4');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('13', 'JRS Carbon Steel Harrow Disc Blades', '5');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('14', 'JRS Mild Steel Disc Harrow Axle', '5');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('15', 'Inch Harrow Disc', '5');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('16', 'Rigid Loaded Cultivator', '6');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('17', 'Spring Type Cultivator', '6');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('18', 'Duck Foot Cultivator', '6');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('19', 'STIHL FS 38', '7');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('20', 'STIHL FS 55', '7');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('21', 'STIHL FS 460 C-EM', '7');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('22', 'Wolf Garten TT 380 DL', '8');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('23', 'Wolf Garten A 370 E', '8');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('24', 'Wolf Garten A 460 A V HW IS', '8');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('25', 'Maxgreen MG-BC-430', '9');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('26', 'Maxgreen MG-BC-520', '9');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('27', 'Maxgreen MG-BC-620', '9');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('28', 'Mahindra M55', '10');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('29', 'Mahindra M75', '10');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('30', 'Mahindra M95', '10');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('31', 'Patil Machinery Multicrop Thresher', '11');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('32', 'Patil Machinery Maize Thresher Cum Dehusker', '11');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('33', 'Patil Machinery Groundnut Thresher', '11');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('34', 'Almaco BT14 Soybean Thresher', '12');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('35', 'Almaco BT25 Belt Thresher', '12');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('36', 'Almaco BT36 Belt Thresher', '12');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('37', 'National Zero Till Ferti-Seed Drill', '13');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('38', 'National Zero Till Happy Seeder', '13');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('39', 'National Rice Grain Planter - DSR', '13');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('40', 'Dharti Agro 9 Teeth Automatic Seed Drill', '14');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('41', 'Dharti Agro 11 Teeth Automatic Seed Drill', '14');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('42', 'Dharti Agro 13 Teeth Automatic Seed Drill', '14');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('43', 'Mausam Agro Tractor Driven Seed Fertilizer Drill', '15');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('44', 'Mausam Agro Animal Driven Seed Drill', '15');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('45', 'Mausam Agro Potato And Turmeric Planter', '15');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('46', 'High Pressure Knapsack Sprayer', '16');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('47', 'Battery Operated Knapsack Sprayer', '16');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('48', 'Power Sprayer', '16');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('49', 'ASPEE Bili HTP', '17');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('50', 'ASPEE Maruti', '17');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('51', 'ASPEE Mist Blower Cum Duster', '17');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('52', 'Agricultural Power Sprayer', '18');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('53', 'Agricultural Hand Sprayer', '18');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('54', 'Agricultural Knapsack Sprayer', '18');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('55', 'Fieldking Maxx Reversible MB Plough', '19');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('56', 'Fieldking Heavy Duty Reversible MB Plough', '19');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('57', 'Fieldking Hydraulic Reversible MB Plough', '19');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('58', 'John Deere Deluxe MB Plough', '20');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('59', 'John Deere Standard MB Plough', '20');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('60', 'John Deere Disc Plough', '20');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('61', 'Agristar Disc Plough 2 FURROW', '21');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('62', 'Agristar Disc Plough 3 FURROW', '21');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('63', 'Agristar Seed Drill2', '21');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('64', 'Neptune NF-1.5', '22');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('65', 'Neptune NF-5.0', '22');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('66', 'Neptune NF-8.0', '22');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('67', 'Masand Hand Sprayer 1.5 Ltr', '23');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('68', 'Masand Hand Sprayer 2 Ltr', '23');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('69', 'Masand Hand Sprayer 5 Ltr', '23');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('70', 'Nav Sankalp Hand Sprayer 1 Ltr', '24');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('71', 'Nav Sankalp Hand Sprayer 2 Ltr', '24');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('72', 'Nav Sankalp Hand Sprayer 5 Ltr', '24');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('73', 'KisanKraft KK-PS 1000 1L Hand Sprayer', '25');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('74', 'KisanKraft KK-PS 1500 1.5L Hand Sprayer', '25');
+INSERT INTO `project`.`car_model` (`modelId`, `model_name`, `companyId`) VALUES ('75', 'KisanKraft KK-PS 11L 11L Hand Sprayer', '25');

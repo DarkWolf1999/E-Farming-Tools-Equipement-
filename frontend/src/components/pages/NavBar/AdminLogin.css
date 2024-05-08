@@ -1,0 +1,69 @@
+/* AdminLogin.css */
+.admin-login-container {
+    width: 300px;
+    /* Adjust width as needed */
+    margin: 50px auto;
+    /* Center the login form horizontally */
+    padding: 20px;
+    border: 1px solid #ccc;
+    /* Add border for better visibility */
+    border-radius: 5px;
+    /* Add border radius for rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* Add box shadow for depth */
+}
+
+.admin-login-container h2 {
+    color: #fff;
+    font-size: 1.5rem;
+    /* Adjust font size as needed */
+    margin-bottom: 20px;
+    /* Add margin bottom for spacing */
+}
+
+.admin-login-container form {
+    display: flex;
+    flex-direction: column;
+}
+
+.admin-login-container label {
+    margin-bottom: 5px;
+    /* Add margin bottom for spacing */
+}
+
+.admin-login-container input {
+    padding: 10px;
+    /* Adjust padding as needed */
+    margin-bottom: 15px;
+    /* Add margin bottom for spacing */
+    border: 1px solid #ccc;
+    /* Add border for better visibility */
+    border-radius: 5px;
+    /* Add border radius for rounded corners */
+}
+
+
+
+#password,#email
+{
+    width: 100%;
+}
+
+
+.admin-login-container button {
+    padding: 10px 20px;
+    /* Adjust padding as needed */
+    background-color: #007bff;
+    /* Change to your desired button color */
+    color: #fff;
+    /* Change to your desired text color */
+    border: none;
+    border-radius: 5px;
+    /* Add border radius for rounded corners */
+    cursor: pointer;
+}
+
+.admin-login-container button:hover {
+    background-color: #0056b3;
+    /* Change to your desired hover color */
+}
